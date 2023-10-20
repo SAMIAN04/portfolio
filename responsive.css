@@ -1,0 +1,275 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
+@media only screen and (max-width: 600px) {
+    body{
+      
+      
+    }
+    
+    .main{
+      height: auto;
+      width: 95vw;
+      overflow: hidden;
+      
+    }
+    
+    .me{
+      font-size: 20px;
+      position: absolute;
+      left: 40px;
+    }
+    .img{
+      width: 30px;
+      height: 30px;
+    }
+    
+      .link{
+        font-size: 6px;
+        
+    
+      }
+      .links{
+        gap: 20px;
+        padding-right: 4px;
+    
+      }
+      .firsth{
+        font-size: 5px;
+        position: absolute;
+        bottom: 51%;
+        left: 10px;
+      }
+      .secondh{
+        font-size: 10px;
+        width: 100%;
+      }
+      .thirdh{
+        font-size: 7px;
+      }
+    
+      
+     .desc{
+      font-size: 4px;
+      padding-top: 0px;
+     }
+     .intro{
+      background-color: #000000;
+      height: 400px;
+    padding: 0%;
+      -webkit-box-pack: start;
+          -ms-flex-pack: start;
+              justify-content: flex-start;
+     }
+     .describ{
+      width: 65%;
+      padding-left: 0px;
+     margin-top: 5%;
+      
+     }
+     .my-im{
+      width: 200px;
+      height: 200px;
+      margin-top: 100px;
+      margin-right: 60px;
+     }
+     .my{
+      margin-right: 170px;
+     }
+     .fs{
+      background-color: #000000;
+      width: 100vw;
+      position: absolute;
+      right: 1px;
+      -webkit-box-pack: center;
+          -ms-flex-pack: center;
+              justify-content: center;
+      -webkit-box-orient: horizontal;
+      -webkit-box-direction: normal;
+          -ms-flex-direction: row;
+              flex-direction: row;
+      font-size: 5px;
+      margin-top: 390px;
+      
+     }
+    .find{
+      
+      position: absolute;
+      font-size: 5px;
+      width: 80vw;
+      padding-right: 30px;
+      -webkit-box-orient: horizontal;
+      -webkit-box-direction: normal;
+          -ms-flex-direction: row;
+              flex-direction: row;
+      -ms-flex-wrap: nowrap;
+          flex-wrap: nowrap;
+      padding-right: 30px;
+      
+      
+    
+    }
+    .bsk{
+      
+      padding-bottom: 10px;
+      padding-left: 16px;
+    }
+    .bestskill{
+      
+      position: absolute;
+      left: 50%;
+    }
+    .fa-brands{
+      font-size: 30px;
+      
+      padding: 2px;
+      margin-left: 20px;
+    }
+    .my-works{
+      position: absolute;
+      margin-top: 540px;
+      
+      width: 94vw;
+      
+      
+    }
+    .cards{
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+          -ms-flex-direction: column;
+              flex-direction: column;
+      -webkit-box-align: center;
+          -ms-flex-align: center;
+              align-items: center;
+      
+    }
+    .skh{
+      font-size: 20px;
+    }
+    .card{
+          width: 87%;
+          
+          
+          
+    }
+    .wh{
+      font-size: 35px;
+      position: absolute;
+      left: 25%;
+      width: 87vw;
+      top: 70px;
+    
+    }
+    .pra{
+      font-size: 17px;
+      padding-right: 70px;
+    }
+    .contactme{
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+          -ms-flex-direction: column;
+              flex-direction: column;
+       -webkit-box-align: center;
+           -ms-flex-align: center;
+               align-items: center;
+      height: 1500px;
+      position: absolute;
+      margin-top: 1700px;
+      margin-left: 100px;
+      
+    
+    }
+    
+    .contform{
+     
+      background-color: #63636377;
+      top: 40%;
+      width: 93vw;
+      position: absolute;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+          -ms-flex-direction: column;
+              flex-direction: column;
+      right: -29%;
+      
+    
+    }
+    .conheder{
+      position: absolute;
+      bottom:1550px ;
+      left: 60px;
+      font-size: 30px;
+    }
+    .condet{
+      position: absolute;
+     right: 1px; 
+      width: 84%;
+      height: 550px;
+      right: 82px;
+      
+    }
+    .mn{
+      width:100% ;
+      font-size: 30px;
+      position: absolute;
+      left: 4%;
+      top: 27%;
+    }
+    .pro{ font-size: 17px;
+      position: absolute;
+      
+      left: 5%;
+      top: 40%;
+    
+    } 
+    .fr{
+      width: 77vw;
+    }
+    
+    .emi{
+      font-size: 40px;
+      color: rgb(255, 255, 255);
+      top: 300px;
+      position: absolute;
+      right: 83%;
+    }
+    
+    .emi2{
+      left: 20px;
+      top: 390px;
+    }
+    .wnu{
+      position: absolute;
+      top: 268px;
+      left: 80px;
+    }
+    .emu{
+      position: absolute;
+      top: 376px;
+      left: 50px ;
+    }
+    .fa-regular{
+      font-size: 80px;
+    }
+    
+    .copy{
+      position: absolute;
+      top: 95%;
+    }
+    .massage{
+      width: 75vw;
+    }
+    .foot{
+      background-color: rgb(94, 94, 94);
+      position: absolute;
+      top: -210px;
+      font-size: 10px;
+    
+    }
+    
+    }
+    
