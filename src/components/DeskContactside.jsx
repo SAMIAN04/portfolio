@@ -1,4 +1,5 @@
 import Contact from "./Contact";
+import profilePic from "/src/components/profile.jpg"; // or correct relative path
 
 function Deskcontactside() {
   return (
@@ -7,7 +8,7 @@ function Deskcontactside() {
       
       <div className="w-[100%] flex justify-center mt-4">
         <img
-          src="src/assets/profile.jpg"
+          src={profilePic}
           alt="my pic"
           className="w-[78%] rounded-2xl"
         />
