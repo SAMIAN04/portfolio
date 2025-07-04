@@ -1,4 +1,4 @@
-import React from 'react';
+import {} from 'react';
 
 // eslint-disable-next-line react/prop-types
 function Card({ children }) {
