@@ -13,7 +13,7 @@ function MobileContactSide() {
 
   return (
     <div
-      className={`flex flex-col bg-[#1e1e1f] w-[93vw] rounded-[1.4rem] mt-4 border-[1px] border-[#383838] relative duration-700 lg:w-[300px] overflow-hidden ${
+      className={`flex flex-col bg-[#1e1e1f]  min-w-[360px] max-w-[1210px] w-[70vw]  rounded-[1.4rem] mt-4 border-[1px] border-[#383838] relative duration-700 lg:w-[300px] overflow-hidden ${
         isExpanded ? "h-[580px]" : "h-[110px]"
       }`}
     >
