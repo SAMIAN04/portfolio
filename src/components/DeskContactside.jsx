@@ -7,7 +7,7 @@ function Deskcontactside() {
       
       <div className="w-[100%] flex justify-center mt-4">
         <img
-          src={profileImg}
+          src="src/assets/profile.jpg"
           alt="my pic"
           className="w-[78%] rounded-2xl"
         />
