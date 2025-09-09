@@ -17,6 +17,15 @@ module.exports = {
       },
     },
     extend: {
+       animation: {
+        star: "moveStars 120s linear infinite",
+      },
+      keyframes: {
+        moveStars: {
+          "0%": { transform: "translateY(0)" },
+          "100%": { transform: "translateY(1000px)" },
+        },
+      },
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
