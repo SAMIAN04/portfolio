@@ -68,7 +68,7 @@ function Contact() {
 
       {/* Social Icons */}
       <div className='flex flex-row w-[80%] gap-5 items-center justify-center mt-5'>
-        <a href="https://www.facebook.com/samian.0405" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon
             icon={faFacebook}
             className="text-1xl bg-[#8181814d] p-3 rounded-xl text-[#97c2a9]

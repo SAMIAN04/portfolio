@@ -36,8 +36,10 @@ const About = () => {
   
   
   return (
-    <div className=" w-[97%] lg:w-[98%] lg:min-h-[760px] min-h-[530px] flex p-1 rounded-[10px] max-h-64 overflow-y-scroll flex-col justify-start items-start ">
-      <h1 className=" text-lg font-bold ml-4 lg:text-2xl">About</h1>
+    <div className=" w-[97%] lg:w-[80%] lg:min-h-[760px] scrollbar-hide min-h-[530px] flex p-1 rounded-[10px] max-h-64 overflow-y-scroll flex-col justify-start items-start ">
+      <h1 className=" text-lg font-bold ml-4 lg:text-2xl">
+        About
+      </h1>
       <span className="bg-green-400 h-[2px] w-[60px] lg:w-[80px] ml-3 rounded-[20px] min-h-[2px]"></span>
       <p className="text-base lg:text-lg leading-relaxed text-gray-300 mt-2  lg:mt-4 p-2">
     I&apos;m a <span className="font-semibold text-white ">Web Developer</span> passionate about 

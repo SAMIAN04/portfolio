@@ -83,6 +83,7 @@ module.exports = {
     },
   },
   plugins: [
+    
     require("tailwindcss-animate"),
     require('tailwind-scrollbar-hide'), // Added scrollbar hide plugin
     // require('tailwind-scrollbar'), // Alternative if you want styled scrollbars
